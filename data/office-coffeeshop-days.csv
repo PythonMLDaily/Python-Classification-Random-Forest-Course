@@ -1,0 +1,12 @@
+is_weekend,hour,destination
+0,7,coffeeshop
+0,8,office
+0,9,office
+0,6,office
+1,10,office
+1,8,coffeeshop
+1,9,office
+1,7,office
+0,7,coffeeshop
+0,8,office
+0,11,office
